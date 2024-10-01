@@ -1,5 +1,8 @@
 # Fundamentos-Final
 
+## Data Science l: Fundamentos para la Ciencia de Datos
+* Comisión 61600
+* Duarte Bruno Julián
 
 Breve análisis sobre el impacto en el cobro de seguros médicos en Estados Unidos, de variables como el tabaquismo, Indice de Masa Corporal, hijos a cargo, región y género de los beneficiarios estudiados.
 
